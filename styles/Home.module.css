@@ -6,9 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
   background-color: blue;
-  color: orange;
 }
 
+label{
+  color: white;
+}
 
 .description {
   display: inherit;
