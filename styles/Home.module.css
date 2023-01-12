@@ -14,12 +14,11 @@
   justify-content: inherit;
   align-items: inherit;
   font-size: 0.85rem;
-  color: rgba(var(--callout-border-rgb), 0.25);
+  color: rgba(var(--background-end-rgb), 0.25);
   max-width: var(--max-width);
   width: 100%;
   z-index: 2;
   font-family: var(--font-mono);
-  color: red;
 }
 
 .description a {
