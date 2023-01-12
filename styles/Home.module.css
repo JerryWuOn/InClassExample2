@@ -5,11 +5,11 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-  background-color: blue;
+  background-color: tan;
 }
 
 label{
-  color: white;
+  color: green;
 }
 
 .description {
