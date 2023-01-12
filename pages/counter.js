@@ -8,6 +8,8 @@ import{useRouter} from 'next/router'
 
 const inter = Inter({ subsets: ['latin'] })
 
+/* Export function () is the name of the page */
+
 export default function Counter() {
     const [number, setNumber] = useState(0);
     const searchParams= useSearchParams();
