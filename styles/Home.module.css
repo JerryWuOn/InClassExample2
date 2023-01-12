@@ -5,8 +5,10 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-  background-color: rgba(var(--background-start-rgb), 1);
+  background-color: blue;
+  color: orange;
 }
+
 
 .description {
   display: inherit;
